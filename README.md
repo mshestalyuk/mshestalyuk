@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Max Shestalyuk</h1>
-<p>
+
 - 🌱 I’m currently learning **K8s, CI / CD, DevOps**
 
 - 💬 Ask me about **Operating systems, networking**
 
 - 📫 How to reach me - **msestaluk@gmail.com**
-</p>
 
 <h3 align="left">DevOps skills:</h3>
 <p align="left"> 

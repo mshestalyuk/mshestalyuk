@@ -34,4 +34,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/mshestalyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mshestalyuk" height="30" width="40" /></a>
 </p><br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mshestalyuk&show_icons=true&locale=en" alt="mshestalyuk" /></p>
+<p align="center"><img src="https://myreadme.vercel.app/api/embed/mshestalyuk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
